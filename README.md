@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurentbca
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
+- I’m interested in 3D mostly.
+- I’m currently learning to work with NeRF / Neuralangelo
 
 
 <!---
